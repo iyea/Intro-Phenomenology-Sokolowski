@@ -77,7 +77,7 @@
 struct Now {
     Impression impression_;
     Now* retention_;
-    Now* Protention;
+    Now* protention_;
 };
 ```
 
